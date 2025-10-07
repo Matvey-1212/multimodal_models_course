@@ -1,0 +1,13 @@
+numpy
+pandas
+torch
+faiss-cpu
+tqdm
+Pillow
+opencv-python
+matplotlib
+datasets
+dataclasses
+transformers
+huggingface-hub
+scipy

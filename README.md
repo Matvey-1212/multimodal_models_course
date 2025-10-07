@@ -1,1 +1,3 @@
-# -multimodal_models_course
+# multimodal_models_course
+
+В данной репе расположены дз по курсу "Мультимодальные модели"
